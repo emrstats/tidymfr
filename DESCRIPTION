@@ -1,0 +1,16 @@
+Package: tidymfr
+Type: Package
+Title: Multiple Factor Analysis in Tidyverse
+Version: 0.1.0
+Author: Em Rushworth
+Maintainer: Em Rushworth <rushworthmj@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPU v3
+Encoding: UTF-8
+LazyData: true
+Depends:
+  R7,
+  tidyverse,
+  devtools,
+  styler
